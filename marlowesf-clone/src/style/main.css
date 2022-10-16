@@ -1,0 +1,13 @@
+
+.main{
+    background-color: rgb(255, 255, 255);
+    width: 78.5vw;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    border: 2px solid rgb(215, 215, 215);
+}
+
+.main-background-img{
+    height: 6vh;
+}
