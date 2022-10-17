@@ -11,3 +11,33 @@
 .main-background-img{
     height: 6vh;
 }
+
+.site-location{
+    font-size: small;
+   position: relative;
+   top: -30px;
+   
+}
+
+.site-location__address{
+    font-family: 'Poppins';
+  color: black;
+}
+.site-location__tel{
+    position: relative;
+    left: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    color: black;
+}
+
+.logo{
+    position: relative;
+    top: 20px;
+    width: 17vw;
+    height:15vh;
+    margin: auto;
+    
+}
+
+

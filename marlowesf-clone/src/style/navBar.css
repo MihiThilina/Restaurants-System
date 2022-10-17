@@ -1,0 +1,16 @@
+.site-nav{
+   justify-content: center;
+    border: 1px solid red;
+}
+
+.site-nav-menu{
+    display: flex;
+    border: 1px solid rgb(37, 246, 72);
+}
+
+.site-nav-link{
+    list-style: none;
+    font-style: normal;
+   
+    border: 1px solid rgb(54, 37, 246);
+}
