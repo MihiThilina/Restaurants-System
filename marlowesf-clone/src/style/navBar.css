@@ -1,16 +1,21 @@
 .site-nav{
    justify-content: center;
-    border: 1px solid red;
+   flex-wrap: wrap;
+   text-align: center;
+   background-color: transparent;
+   position: relative;
+   top: 50px;
+   left:50px;
+   width: 70vw;
 }
 
 .site-nav-menu{
     display: flex;
-    border: 1px solid rgb(37, 246, 72);
 }
 
 .site-nav-link{
     list-style: none;
     font-style: normal;
-   
-    border: 1px solid rgb(54, 37, 246);
+    padding: 10px;
+    margin: 30px;
 }

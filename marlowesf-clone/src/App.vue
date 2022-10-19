@@ -7,9 +7,9 @@ import NavBar from "./components/navBar.vue"
 
 <template>
 
-        <!-- <Background></Background>
-        <Main></Main> -->
-        <NavBar></NavBar>
+        <Background></Background>
+        <Main></Main>
+        <!-- <NavBar></NavBar> -->
 </template>
 
 <style>

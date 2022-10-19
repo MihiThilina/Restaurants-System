@@ -1,5 +1,5 @@
 <script setup>
-
+import NavBar from "../components/navBar.vue"
 		
 </script>
 
@@ -42,8 +42,7 @@
           src="../../src/assets/img/12898logo-transparent2-min.png"
         />
        </div>
-        
-
+       <NavBar></NavBar>
     </div>
   </main>
 </template>
