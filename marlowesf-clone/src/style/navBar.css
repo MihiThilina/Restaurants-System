@@ -1,5 +1,5 @@
 .navBar{
-   
+
 }
 .site-nav{
    justify-content: center;
@@ -8,7 +8,9 @@
    background-color: transparent;
    position: fixed;
    top: 22%;
-   width: 80vw;
+   width: 78.3vw;
+   z-index: 100;
+   background-color: rgb(255, 255, 255);
 }
 
 .site-nav-menu{
@@ -48,4 +50,7 @@
     top: 10px;
     color: aliceblue;
 }
+
+
+
 
