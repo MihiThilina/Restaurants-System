@@ -1,12 +1,14 @@
+.navBar{
+   
+}
 .site-nav{
    justify-content: center;
    flex-wrap: wrap;
    text-align: center;
    background-color: transparent;
-   position: relative;
-   top: 50px;
-   left:50px;
-   width: 70vw;
+   position: fixed;
+   top: 22%;
+   width: 80vw;
 }
 
 .site-nav-menu{
@@ -17,5 +19,33 @@
     list-style: none;
     font-style: normal;
     padding: 10px;
+    font-size: 19px;
+    color: black;
     margin: 30px;
+    
 }
+
+.site-nav-link:hover{
+    color: rgb(137, 46, 46);
+}
+
+.btn{
+    height: 40px;
+    width: 130px;
+    background-color: rgb(137, 46, 46);
+    position: relative;
+    top: -10px;
+}
+
+.btn:hover{
+    background-color: black;
+}
+
+
+
+.btn a{
+    position: relative;
+    top: 10px;
+    color: aliceblue;
+}
+
