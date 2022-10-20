@@ -44,9 +44,36 @@ import NavBar from "../components/navBar.vue"
        
        <div class="Wel-Topic">
           
-
+          <h1>Welcome Back to Marlowe</h1>
        
        </div>
+
+
+       <!-- ------------- More Details  Marlowe ------------- -->
+
+        <section class="More_Details">
+            <div>
+              <va-image  style="width:76vw; height: 60vh; "   src="https://images.getbento.com/accounts/a0c808d1b363513c944cd3d8fb0215af/media/images/78896xmmbwgp1SyiGC2BdBjcX_EWP2014_marlowe_brannan-3673.jpeg?w=1200&fit=crop&auto=compress,format&crop=focalpoint&fp-x=0.48&fp-y=0.51"/>
+            </div>
+            <div >
+                 <h1 class="underLine">___________________________</h1>
+                 <h1 class="OurMenu">OUR MENU</h1>
+                 <h1 class="underLine">___________________________</h1>
+                 <div class="view-menu">
+                   <button>VIEW MENU</button>
+                 </div>
+               
+            </div>
+        </section>
+
+        <!-- end----------------------------- -->
+      
+        <footer>
+        
+        
+        </footer>
+      
+
 
   </main>
 </template>

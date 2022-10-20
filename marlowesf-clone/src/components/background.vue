@@ -39,18 +39,8 @@
                 class="background-img"
                 src="../../src/assets/img/Background-subwaytile.jpeg"
               />
-              <va-image
-                class="background-img"
-                src="../../src/assets/img/Background-subwaytile.jpeg"
-              />
-              <va-image
-                class="background-img"
-                src="../../src/assets/img/Background-subwaytile.jpeg"
-              />
-              <va-image
-                class="background-img"
-                src="../../src/assets/img/Background-subwaytile.jpeg"
-              />
+          
+            
     
     </div>
         
@@ -84,18 +74,7 @@
                 class="background-img"
                 src="../../src/assets/img/Background-subwaytile.jpeg"
               />
-              <va-image
-                class="background-img"
-                src="../../src/assets/img/Background-subwaytile.jpeg"
-              />
-              <va-image
-                class="background-img"
-                src="../../src/assets/img/Background-subwaytile.jpeg"
-              />
-              <va-image
-                class="background-img"
-                src="../../src/assets/img/Background-subwaytile.jpeg"
-              />
+           
         </div>
     </main>
 
