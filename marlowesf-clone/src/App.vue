@@ -12,6 +12,11 @@ import NavBar from "./components/navBar.vue"
         <Background></Background>
         <Main></Main>
         <!-- <NavBar></NavBar> -->
+
+
+
+
+
 </template>
 
 <style>

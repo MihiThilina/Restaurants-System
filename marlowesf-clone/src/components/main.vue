@@ -68,6 +68,10 @@ import NavBar from "../components/navBar.vue";
     <!-- end----------------------------- -->
 
     <footer>
+       <div class="fotter">
+        <a href="https://www.instagram.com/marlowesf/" target="_blank" rel="noopener" data-bb-track="button" data-bb-track-on="click" data-bb-track-category="Social Icons" data-bb-track-action="Click" data-bb-track-label="Instagram, Footer"><span class="fa fa-instagram" aria-hidden="true"></span><span class="sr-only">Instagram</span></a>
+        <a class="site-nav-link" href="/contact/">Contact</a>
+       </div>
       <div class="footer-backgrond">
          <h3>create by thilina</h3>
         <va-image style=" width: 79vw; height: 10vh;"  src="../../src/assets/img/mainmarblebackground.jpeg"/>
