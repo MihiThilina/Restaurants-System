@@ -164,6 +164,19 @@
 .fotter{
   text-align: center;
 }
+.instergrm{
+  position: relative;
+  right: 33%;
+  top: 260px;
+}
+.contact{
+  position: relative;
+  left: 33%;
+  top: 260px;
+  font-size: 20px;
+  color: black;
+  
+}
 .footer-backgrond{
   position: relative;
   top: 280px;
